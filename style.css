@@ -1,11 +1,7 @@
+/*General*/
 h1 {
   background-color: lightblue;
   text-align: center;
-}
-
-.text {
-  font-family: Arial, sans-serif;
-  color: rgb(53, 53, 53);
 }
 
 footer {
@@ -13,3 +9,15 @@ footer {
   font-size: 12px;
   color: gray;
 }
+
+/*Classes*/
+.inline{
+    display: inline;
+}
+
+.text {
+  font-family: Arial, sans-serif;
+  color: rgb(53, 53, 53);
+}
+
+/*IDs*/
